@@ -23,6 +23,9 @@
 
 # `study-short-name`
 
+*By: `corresponding-author-name`*
+
+
 <!-- Link for raw data; remove this section if not applicable -->
 [![Download the dataset](https://img.shields.io/badge/download-Raw%20data-9cf.svg)](`data-url`)
 
@@ -41,11 +44,6 @@
 <!-- Link to online dashboard; remove this section if not applicable -->
 [![Explore the data interactively](https://img.shields.io/badge/explore-Interactive%20results-orange.svg)](`dashboard-url`)
 
----
-
-*Prepared by: `corresponding-author-name`*
-
----
 
 
 ## Overview
