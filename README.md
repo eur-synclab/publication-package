@@ -20,6 +20,8 @@
 <!-- publication-package-citation: full text citation based on the Zenodo DOI -->
 <!-- manuscript-citation: full text citation of the published article -->
 
+<!-- NOTE: the descriptions in this main readme file are intended to be summarising information. For more detailed information/instructions, add this to the respective README files in the appropriate individual folders -->
+
 
 # `study-short-name`
 
